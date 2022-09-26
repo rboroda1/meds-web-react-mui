@@ -1,0 +1,70 @@
+{
+  "inventory": [
+    {
+      "item": "skis",
+      "total": 20,
+      "max_given": 2,
+      "available": 20,
+      "category": "winter",
+      "id": 1
+    },
+    {
+      "item": "ski boots",
+      "total": 20,
+      "max_given": 2,
+      "available": 20,
+      "category": "winter",
+      "id": 2
+    },
+    {
+      "item": "backpacks",
+      "total": 10,
+      "max_given": 1,
+      "available": 10,
+      "category": "camping",
+      "id": 3
+    },
+    {
+      "item": "carabiner",
+      "total": 100,
+      "max_given": 10,
+      "available": 100,
+      "category": "mountaneering",
+      "id": 5
+    },
+    {
+      "item": "potatoes",
+      "description": "Much potatoes for the price of one",
+      "total": "280",
+      "max_given": "23",
+      "category": "mountaneering",
+      "id": 6
+    },
+    {
+      "item": "rope",
+      "description": "This is the rope to use on the mountain",
+      "total": "200",
+      "max_given": "10",
+      "category": "mountaneering",
+      "id": 7
+    },
+    {
+      "item": "колеса",
+      "description": "Колеса для автомобилей \"Жигули\" и \"Волга\". Продаются в магазине \"Автосервис\" по адресу Ленинский Пр., д. 31/а",
+      "total": "16",
+      "max_given": "4",
+      "category": "camping",
+      "id": 8
+    }
+  ],
+  "trips": [
+    {
+      "name": "Mt. Snow",
+      "start_date": "01/06/2021",
+      "end_date": "01/07/2021",
+      "max_students": 15,
+      "num_students": 2,
+      "id": 1
+    }
+  ]
+}
